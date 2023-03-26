@@ -1,0 +1,4 @@
+elasticsearch:
+  protocol: http
+  url: localhost
+  port: 9200
